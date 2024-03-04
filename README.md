@@ -37,7 +37,7 @@ Before you begin, ensure you have the following installed on your machine:
 1. **Clone the repository:**
 
     ```bash
-   https://github.com/Chandruvijayakumar/Redux-Shopping-Cart.git
+   https://github.com/Chandruvijayakumar/Redux
     ```
 
 2. **Navigate to the project directory:**
@@ -82,11 +82,12 @@ We welcome contributions! To contribute to this project, please follow the guide
 
 ## Feedback
 
-If you have any questions, issues, or suggestions, feel free to [open an issue](https://github.com/Chandruvijayakumar/Redux-Shopping-Cart.git/issues).
+If you have any questions, issues, or suggestions, feel free to [open an issue](https://github.com/Chandruvijayakumar/Redux/issues).
 
 ## Netlify Link
 
-[Netlify](https://chandru-redux-shopping-cart.netlify.app/)
+[Netlify](https://redux0001.netlify.app/)
 
 ```bash
-https://chandru-redux-shopping-cart.netlify.app/
+https://redux0001.netlify.app/
+```
